@@ -39,7 +39,7 @@ relay-ports=49152-65535
 min-port=49152
 max-port=65535
 user=webinar:securepassword123
-realm=webinar.example.com
+realm=thehaze.cloud
 no-cli
 no-stdout-log
 log-file=/var/log/turnserver.log
