@@ -51,7 +51,7 @@ sudo systemctl restart coturn
 
 # Clone app
 cd /opt
-sudo git clone https://github.com/your-repo/webinar-app.git  # Replace with your repo or create locally
+sudo git clone https://github.com/georgejking/try2.git  # Replace with your repo or create locally
 cd webinar-app
 
 # Install backend
